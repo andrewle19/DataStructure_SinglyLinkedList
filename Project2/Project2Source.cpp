@@ -1,6 +1,5 @@
 // Andrew Le
 // andrewle19@csu.fullerton.edu	
-// K.Palmer
 // Project 2
 
 #include <iostream>
